@@ -9,7 +9,7 @@
     1. readall: 每個成員分別在一個 json 檔案中，由 ReadAll() 讀取，比較麻煩
     1. write: 對資料的寫入比 Read() + ReadAll() 還簡單
 1. 編譯與執行:  
-  go build && db
+  go build && ./db
 
 # 參考
 [1] [https://pkg.go.dev/reflect](https://pkg.go.dev/reflect)
