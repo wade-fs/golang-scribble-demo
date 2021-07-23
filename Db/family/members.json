@@ -1,0 +1,40 @@
+[
+	{
+		"Name": "Wade",
+		"Birth": "55/05/05",
+		"Service": "美商富富富有限公司",
+		"Children": [
+			{
+				"Name": "Simba"
+			},
+			{
+				"Name": "Kenny"
+			}
+		]
+	},
+	{
+		"Name": "Muse",
+		"Birth": "66/06/06",
+		"Service": "新北市立青隨高中",
+		"Children": [
+			{
+				"Name": "Simba"
+			},
+			{
+				"Name": "Kenny"
+			}
+		]
+	},
+	{
+		"Name": "Simba",
+		"Birth": "99/09/09",
+		"Service": "國立成成大學",
+		"Children": []
+	},
+	{
+		"Name": "Kenny",
+		"Birth": "88/08/08",
+		"Service": "台北市立建建高中",
+		"Children": []
+	}
+]
